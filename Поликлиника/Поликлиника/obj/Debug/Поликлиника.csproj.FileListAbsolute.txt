@@ -1,0 +1,11 @@
+G:\4 курс\УП\Поликлиника\Поликлиника\bin\Debug\Поликлиника.exe.config
+G:\4 курс\УП\Поликлиника\Поликлиника\bin\Debug\Поликлиника.exe
+G:\4 курс\УП\Поликлиника\Поликлиника\bin\Debug\Поликлиника.pdb
+G:\4 курс\УП\Поликлиника\Поликлиника\obj\Debug\Поликлиника.csproj.AssemblyReference.cache
+G:\4 курс\УП\Поликлиника\Поликлиника\obj\Debug\Поликлиника.Form1.resources
+G:\4 курс\УП\Поликлиника\Поликлиника\obj\Debug\Поликлиника.Properties.Resources.resources
+G:\4 курс\УП\Поликлиника\Поликлиника\obj\Debug\Поликлиника.csproj.GenerateResource.cache
+G:\4 курс\УП\Поликлиника\Поликлиника\obj\Debug\Поликлиника.csproj.CoreCompileInputs.cache
+G:\4 курс\УП\Поликлиника\Поликлиника\obj\Debug\Поликлиника.exe
+G:\4 курс\УП\Поликлиника\Поликлиника\obj\Debug\Поликлиника.pdb
+G:\4 курс\УП\Поликлиника\Поликлиника\obj\Debug\Поликлиника.Menuu.resources
